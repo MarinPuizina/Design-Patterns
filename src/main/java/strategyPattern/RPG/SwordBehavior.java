@@ -1,4 +1,4 @@
-package main.strategy.RPG;
+package main.java.strategyPattern.RPG;
 
 public class SwordBehavior implements WeaponBehavior {
 

@@ -1,4 +1,4 @@
-package main.strategy.DuckProject;
+package main.java.strategyPattern.DuckProject;
 
 public interface FlyBehavior {
 

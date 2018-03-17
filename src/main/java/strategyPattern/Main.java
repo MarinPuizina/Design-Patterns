@@ -1,9 +1,9 @@
-package main.strategy;
+package main.java.strategyPattern;
 
-import main.strategy.DuckProject.Duck;
-import main.strategy.DuckProject.MallardDuck;
-import main.strategy.RPG.Warrior;
-import main.strategy.RPG.Character;
+import main.java.strategyPattern.DuckProject.Duck;
+import main.java.strategyPattern.DuckProject.MallardDuck;
+import main.java.strategyPattern.RPG.Warrior;
+import main.java.strategyPattern.RPG.Character;
 
 public class Main {
 
