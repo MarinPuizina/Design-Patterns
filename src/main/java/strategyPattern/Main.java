@@ -1,7 +1,9 @@
-import DuckProject.Duck;
-import DuckProject.MallardDuck;
-import RPG.Warrior;
-import RPG.Character;
+package main.strategy;
+
+import main.strategy.DuckProject.Duck;
+import main.strategy.DuckProject.MallardDuck;
+import main.strategy.RPG.Warrior;
+import main.strategy.RPG.Character;
 
 public class Main {
 

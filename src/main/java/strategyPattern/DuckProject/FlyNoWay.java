@@ -1,4 +1,4 @@
-package DuckProject;
+package main.strategy.DuckProject;
 
 public class FlyNoWay implements FlyBehavior {
 

@@ -1,4 +1,4 @@
-package DuckProject;
+package main.strategy.DuckProject;
 
 public abstract class Duck {
 

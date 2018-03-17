@@ -1,4 +1,4 @@
-package RPG;
+package main.strategy.RPG;
 
 public class Warrior extends Character {
 
