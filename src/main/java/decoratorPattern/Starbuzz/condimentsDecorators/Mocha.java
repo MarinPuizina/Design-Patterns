@@ -1,6 +1,6 @@
-package main.java.decoratorPattern.starbuzz.condimentsDecorators;
+package main.java.decoratorPattern.Starbuzz.condimentsDecorators;
 
-import main.java.decoratorPattern.starbuzz.beverages.Beverage;
+import main.java.decoratorPattern.Starbuzz.beverages.Beverage;
 
 public class Mocha extends CondimentDecorator {
 

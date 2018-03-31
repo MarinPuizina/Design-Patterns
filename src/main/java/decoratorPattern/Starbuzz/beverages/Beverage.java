@@ -1,4 +1,4 @@
-package main.java.decoratorPattern.starbuzz.beverages;
+package main.java.decoratorPattern.Starbuzz.beverages;
 
 public abstract class Beverage {
 
